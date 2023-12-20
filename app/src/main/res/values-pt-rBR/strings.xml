@@ -174,7 +174,7 @@
   <string name="number_error_larger_than_fifteen_characters">A resposta pode conter no máximo 15 dígitos (0–9) ou símbolos (. ou -).</string>
   <string name="ratio_error_invalid_chars" fuzzy="true">Escreva uma proporção que consista em dígitos separados por dois pontos (por exemplo, 1:2 ou 1:2:3).</string>
   <string name="ratio_error_invalid_format" fuzzy="true">Insira uma proporção válida (por exemplo, 1:2 ou 1:2:3).</string>
-  <string name="ratio_error_invalid_colons" fuzzy="true">Sua resposta tem dois dois-pontos (:) do lado um do outro.</string>
+  <string name="ratio_error_invalid_colons" fuzzy="true">Sua resposta tem dois-pontos (:) do lado um do outro.</string>
   <string name="ratio_error_invalid_size" fuzzy="true">O número de termos não é igual ao exigido.</string>
   <string name="ratio_error_includes_zero" fuzzy="true">Proporções não podem ter 0 como elemento.</string>
   <string name="unknown_size">Tamanho desconhecido</string>
@@ -202,12 +202,10 @@
   </plurals>
   <plurals name="completed_story_count" fuzzy="true">
     <item quantity="one">%s história concluída</item>
-    <item quantity="zero">%s Histórias concluídas</item>
     <item quantity="other">%s Histórias concluídas</item>
   </plurals>
   <plurals name="ongoing_topic_count" fuzzy="true">
     <item quantity="one">%s Tópico em andamento</item>
-    <item quantity="zero">%s Tópicos em andamento</item>
     <item quantity="other">%s Tópicos em andamento</item>
   </plurals>
   <string name="profile_chooser_activity_label">Página de seleção de perfil</string>
